@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zibestr (Danila), high school student
+- 👋 Hi, I’m @zibestr (Danila), bachelor student
 - 👀 I’m interested in math, physics, computer science, machine and deep learning
 - 🤓 I'm good in Python 3
 - 💞️ I’m looking to collaborate with any dude, who shares my view and ideas
