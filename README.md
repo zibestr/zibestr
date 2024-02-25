@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zibestr (Danila), high school student
-- 👀 I’m interested in math, physics, computer science
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in math, physics, computer science, machine and deep learning
 - 🤓 I'm good in Python 3
 - 💞️ I’m looking to collaborate with any dude, who shares my view and ideas
 - 📫 How to reach me: danila.yashin23@gmail.com
