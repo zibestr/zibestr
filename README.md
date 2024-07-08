@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @zibestr (Danila), bachelor student
-- 👀 I’m interested in math, physics, computer science, machine and deep learning
-- 🤓 I'm good in Python 3
-- 💞️ I’m looking to collaborate with any dude, who shares my view and ideas
+- 🤓 I'm good in Python, Machile Learning algorithms and Deep Learning
 - 📫 How to reach me: danila.yashin23@gmail.com
+## My pet projects:
+- [Stocksense](https://github.com/zibestr/StockSense)
+- [SpamDetector](https://github.com/zibestr/SpamDetector)
 
 <!---
 zibestr/zibestr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
