@@ -4,6 +4,7 @@
 ## My pet projects:
 - [Stocksense](https://github.com/zibestr/StockSense)
 - [SpamDetector](https://github.com/zibestr/SpamDetector)
+- [Food-Classifier](https://github.com/zibestr/Food-Classifier)
 
 <!---
 zibestr/zibestr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
