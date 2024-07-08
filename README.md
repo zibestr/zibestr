@@ -3,7 +3,7 @@
 - 📫 How to reach me: danila.yashin23@gmail.com
 ## My pet projects:
 - [Stocksense](https://github.com/zibestr/StockSense)
-- [MaliciousURLDetector](https://github.com/zibestr/SpamDetector)
+- [MaliciousURLDetector](https://github.com/zibestr/MaliciousURLDetector)
 - [Food-Classifier](https://github.com/zibestr/Food-Classifier)
 - [NotYangex Search Engine](https://github.com/zibestr/not_yandex-engine)
 
