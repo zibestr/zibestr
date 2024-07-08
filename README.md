@@ -5,6 +5,7 @@
 - [Stocksense](https://github.com/zibestr/StockSense)
 - [SpamDetector](https://github.com/zibestr/SpamDetector)
 - [Food-Classifier](https://github.com/zibestr/Food-Classifier)
+- [NotYangex Search Engine](https://github.com/zibestr/not_yandex-engine)
 
 <!---
 zibestr/zibestr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
